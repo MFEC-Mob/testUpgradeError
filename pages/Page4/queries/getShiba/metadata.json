@@ -46,7 +46,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-02-13T09:50:50Z"
   },
   "id": "Page4_getShiba",
   "deleted": false,

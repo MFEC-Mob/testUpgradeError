@@ -1,37 +1,37 @@
 {
   "unpublishedPage": {
-    "name": "Page3",
-    "slug": "page3",
+    "name": "Page1",
+    "slug": "page1",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1224,
+          "rightColumn": 4896,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 500,
+          "bottomRow": 380,
           "containerStyle": "none",
-          "snapRows": 49,
+          "snapRows": 124,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 80,
-          "minHeight": 510,
+          "version": 87,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
-          "leftColumn": 0,
-          "children": []
+          "leftColumn": 0
         },
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page3_InitObj.init",
+              "id": "Page1_InitObj.init",
               "name": "InitObj.init",
-              "collectionId": "Page3_InitObj",
+              "collectionId": "Page1_InitObj",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
               "jsonPathKeys": [
@@ -43,7 +43,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page3",
+        "id": "Page1",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -53,5 +53,5 @@
     "policies": []
   },
   "deleted": false,
-  "gitSyncId": "65cb358911c8421cf1b8cc5d_65cb372411c8421cf1b8cc71"
+  "gitSyncId": "65cb0caa1a3b5c541236744b_65cb0caa1a3b5c541236744d"
 }
