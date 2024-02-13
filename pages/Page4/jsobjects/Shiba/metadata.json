@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Shiba",
+    "pageId": "Page4",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page4_Shiba",
+  "deleted": false,
+  "gitSyncId": "65cb358911c8421cf1b8cc5d_65cb37e111c8421cf1b8cc8e"
+}
